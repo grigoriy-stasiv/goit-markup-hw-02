@@ -73,7 +73,7 @@ ol {
 
 .btn{
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-        background: #4d5ae5;
+        background-color: #4d5ae5;
         cursor: pointer;
         color: #fff;
         font-weight: 500;
@@ -84,7 +84,7 @@ ol {
 
 .btn:hover,
 .btn:focus{
-    background: #404bbf;
+    background-color: #404bbf;
 }
 
 .hero-title{
@@ -103,7 +103,7 @@ ol {
 }
 
 .section-team{
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 
 .team-inf{
